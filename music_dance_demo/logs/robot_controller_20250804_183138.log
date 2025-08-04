@@ -1,0 +1,1271 @@
+2025-08-04 18:31:38,700 - RobotController - INFO - 日志文件创建: /Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/logs/robot_controller_20250804_183138.log
+2025-08-04 18:31:48,386 - RobotController - INFO - 正在连接到机器人 192.168.1.198...
+2025-08-04 18:31:48,394 - RobotController - INFO - Dashboard连接成功 (端口 29999)
+2025-08-04 18:31:48,398 - RobotController - INFO - Feed连接成功 (端口 30004)
+2025-08-04 18:31:48,413 - RobotController - INFO - 速度设置为: 50%
+2025-08-04 18:31:48,439 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:48,552 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:48,661 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:48,770 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:48,879 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:48,988 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,096 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,203 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,312 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,422 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,526 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,635 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,744 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,851 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:49,960 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,080 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,190 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,299 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,405 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,512 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,618 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,727 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,837 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:50,941 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,050 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,160 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,270 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,379 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,489 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,594 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,704 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,811 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:51,920 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,029 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,135 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,244 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,351 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,458 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,567 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,676 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,786 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:52,895 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,004 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,114 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,223 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,332 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,441 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,551 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,661 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,769 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,877 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:53,987 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,093 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,198 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,307 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,416 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,525 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,634 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,744 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,854 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:54,961 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:55,070 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:55,178 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:55,288 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:55,398 - RobotController - DEBUG - GetErrorID result: 0,{[3]},GetErrorID();
+2025-08-04 18:31:55,422 - RobotController - DEBUG - EnableRobot result: -2,{},EnableRobot();
+2025-08-04 18:31:56,981 - RobotController - INFO - 机器人启用成功
+2025-08-04 18:31:56,983 - RobotController - INFO - 正在移动到初始位置: [0, 45, 45, 0, 90, 0]
+2025-08-04 18:31:57,000 - RobotController - DEBUG - 执行MovJ命令，速度: 50%
+2025-08-04 18:31:57,005 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,114 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,224 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,333 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,443 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,552 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,836 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:57,943 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:58,369 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:58,479 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:58,888 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,047 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,217 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,328 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,435 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,544 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,733 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,843 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:31:59,950 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,006 - RobotController - INFO - 已到达初始位置
+2025-08-04 18:32:00,067 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,266 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,375 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,485 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,594 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,792 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:00,902 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,007 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,129 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,314 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,505 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,615 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,724 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:01,838 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,029 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,137 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,246 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,362 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,553 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,663 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,773 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:02,886 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,076 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,184 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,294 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,411 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,602 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,712 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,821 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:03,936 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,129 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,238 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,344 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,460 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,651 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,760 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,867 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:04,984 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,175 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,305 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,416 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,525 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,699 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,803 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:05,912 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,032 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,221 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,333 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,442 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,557 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,748 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:06,887 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,081 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,273 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,382 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,491 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,605 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,796 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:07,906 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,012 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,132 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,321 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,441 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,546 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,656 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,845 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:08,955 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:09,061 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:09,189 - RobotController - DEBUG - 执行移动命令: MovL(-350.0012516975403,-0.0012516975402832031,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,193 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:09,200 - RobotController - DEBUG - 执行移动命令: MovL(-363.7614607810974,-13.761460781097412,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,209 - RobotController - DEBUG - 执行移动命令: MovL(-376.70925855636597,-26.709258556365967,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,256 - RobotController - DEBUG - 执行移动命令: MovL(-390.4687523841858,-40.46875238418579,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,369 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:09,376 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-44.36098734537761,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,384 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-27.5753657023112,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,413 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-9.218327204386398,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,466 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,7.851012547810875,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,478 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:09,520 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,26.19660695393881,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,574 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,44.543949762980134,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,587 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:09,702 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,37.105369567871094,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,707 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:09,710 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,18.752622604370124,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,739 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,0.40869712829590554,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,797 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-17.942301432291657,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,893 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:09,897 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-36.29266421000162,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,902 - RobotController - DEBUG - 执行移动命令: MovL(-396.5097427368164,-46.50974273681641,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:09,963 - RobotController - DEBUG - 执行移动命令: MovL(-383.44976902008057,-33.44976902008057,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:10,002 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,016 - RobotController - DEBUG - 执行移动命令: MovL(-369.76996660232544,-19.769966602325447,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:10,070 - RobotController - DEBUG - 执行移动命令: MovL(-356.0110092163086,-6.011009216308594,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:10,111 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,123 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:10,227 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,418 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,528 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,637 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,756 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:10,942 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,052 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,158 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,276 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,466 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,576 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,685 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,799 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:11,990 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,100 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,213 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,324 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,513 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,622 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,732 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:12,850 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,039 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,152 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,261 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,373 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,563 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,672 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,779 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:13,896 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,085 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,113 - RobotController - DEBUG - 执行移动命令: MovL(-350.0002980232239,-0.0002980232238769531,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,166 - RobotController - DEBUG - 执行移动命令: MovL(-363.75871896743774,-13.758718967437744,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,194 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,218 - RobotController - DEBUG - 执行移动命令: MovL(-376.8915295600891,-26.89152956008911,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,272 - RobotController - DEBUG - 执行移动命令: MovL(-390.29178619384766,-40.291786193847656,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,301 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,325 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-46.224308013916016,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,421 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-27.870607376098636,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,426 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,435 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-9.521357218424484,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,489 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,7.210620244344078,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,612 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,24.32430585225424,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,616 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,620 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,42.68301328023276,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,648 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,38.9673391977946,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,700 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,20.611333847045906,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,725 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,751 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,3.214963277180999,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,810 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-15.136671066284165,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,833 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,945 - RobotController - DEBUG - 执行移动命令: MovL(-400.0,-33.36567878723143,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,949 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:14,956 - RobotController - DEBUG - 执行移动命令: MovL(-398.71368408203125,-48.713684082031264,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:14,973 - RobotController - DEBUG - 执行移动命令: MovL(-384.9544882774353,-34.95448827743531,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:15,026 - RobotController - DEBUG - 执行移动命令: MovL(-371.19171619415283,-21.19171619415284,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:15,136 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,140 - RobotController - DEBUG - 执行移动命令: MovL(-357.4317455291748,-7.431745529174805,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:15,145 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:15,246 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,350 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,470 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,660 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,770 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,879 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:15,993 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,098 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,207 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,314 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,423 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,532 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,709 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,819 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:16,927 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,042 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,147 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,257 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,367 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,567 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,758 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,896 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:17,970 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,199.9995231628418,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,093 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,096 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,186.650288105011,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,101 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,174.10649061203003,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,130 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,161.55601739883423,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,171 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,151.3336499532064,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,283 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,287 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,169.67995961507162,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,290 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,187.75629997253418,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,344 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,204.66995239257812,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,392 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,397 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,222.26993242899576,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,437 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,239.37137921651205,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,491 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,243.4706687927246,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,498 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,616 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,225.12102127075195,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,622 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,626 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,207.3360284169515,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,652 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,188.98828824361166,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,706 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,171.70731226603192,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,806 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,810 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,153.36060523986816,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,813 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,160.95353364944458,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,867 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,174.714457988739,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,915 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:18,921 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,188.0584478378296,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:18,974 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:19,023 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,139 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,329 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,438 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,547 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,663 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,855 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:19,964 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,074 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,188 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,379 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,485 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,590 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,711 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:20,901 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,010 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,118 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,237 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,427 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,537 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,646 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,761 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0003218650817871094,speed=50)
+2025-08-04 18:32:21,765 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,770 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,24.765264987945557,speed=50)
+2025-08-04 18:32:21,785 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,49.53632354736328,speed=50)
+2025-08-04 18:32:21,839 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,74.30716753005981,speed=50)
+2025-08-04 18:32:21,952 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:21,955 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,99.0741491317749,speed=50)
+2025-08-04 18:32:21,958 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,123.84263277053833,speed=50)
+2025-08-04 18:32:22,009 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,148.12917709350586,speed=50)
+2025-08-04 18:32:22,060 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,172.6128101348877,speed=50)
+2025-08-04 18:32:22,065 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:22,111 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,197.40500450134277,speed=50)
+2025-08-04 18:32:22,168 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,222.17799425125122,speed=50)
+2025-08-04 18:32:22,177 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:22,285 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,246.47494554519653,speed=50)
+2025-08-04 18:32:22,289 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:22,292 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,270.4558253288269,speed=50)
+2025-08-04 18:32:22,322 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,293.0596590042114,speed=50)
+2025-08-04 18:32:22,375 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,315.64836502075195,speed=50)
+2025-08-04 18:32:22,476 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:22,479 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,340.4217839241028,speed=50)
+2025-08-04 18:32:22,483 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,339.2174720764161,speed=50)
+2025-08-04 18:32:22,536 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,240.1473999023438,speed=50)
+2025-08-04 18:32:22,585 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:22,600 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,141.0876274108887,speed=50)
+2025-08-04 18:32:22,653 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,42.04673767089844,speed=50)
+2025-08-04 18:32:22,690 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:22,706 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:22,810 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,001 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,110 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,214 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,333 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,525 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,634 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,740 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:23,858 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,049 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,158 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,268 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,383 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,573 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,682 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,788 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:24,906 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,095 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,204 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,311 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,431 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,622 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,732 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,840 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:25,955 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,144 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,148 - RobotController - DEBUG - 执行移动命令: MovL(-350.0004291534424,0.0004291534423828125,200.0,180.0,0.0,0.00038623809814453125,speed=50)
+2025-08-04 18:32:26,151 - RobotController - DEBUG - 执行移动命令: MovL(-361.00683212280273,11.006832122802734,200.0,180.0,0.0,9.906148910522461,speed=50)
+2025-08-04 18:32:26,205 - RobotController - DEBUG - 执行移动命令: MovL(-372.01619148254395,22.016191482543945,200.0,180.0,0.0,19.81457233428955,speed=50)
+2025-08-04 18:32:26,253 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,258 - RobotController - DEBUG - 执行移动命令: MovL(-383.0237865447998,33.023786544799805,200.0,180.0,0.0,29.721407890319824,speed=50)
+2025-08-04 18:32:26,311 - RobotController - DEBUG - 执行移动命令: MovL(-393.6605930328369,43.660593032836914,200.0,180.0,0.0,39.29453372955322,speed=50)
+2025-08-04 18:32:26,362 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,366 - RobotController - DEBUG - 执行移动命令: MovL(-395.33138275146484,45.331382751464844,200.0,180.0,0.0,40.79824447631836,speed=50)
+2025-08-04 18:32:26,480 - RobotController - DEBUG - 执行移动命令: MovL(-384.32459831237793,34.32459831237793,200.0,180.0,0.0,30.892138481140137,speed=50)
+2025-08-04 18:32:26,484 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,487 - RobotController - DEBUG - 执行移动命令: MovL(-373.3165740966797,23.316574096679688,200.0,180.0,0.0,20.98491668701172,speed=50)
+2025-08-04 18:32:26,529 - RobotController - DEBUG - 执行移动命令: MovL(-362.3089790344238,12.308979034423828,200.0,180.0,0.0,11.078081130981445,speed=50)
+2025-08-04 18:32:26,580 - RobotController - DEBUG - 执行移动命令: MovL(-351.30300521850586,1.3030052185058594,200.0,180.0,0.0,1.1727046966552734,speed=50)
+2025-08-04 18:32:26,670 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,674 - RobotController - DEBUG - 执行移动命令: MovL(-340.2940273284912,-9.705972671508789,200.0,180.0,0.0,-8.73537540435791,speed=50)
+2025-08-04 18:32:26,688 - RobotController - DEBUG - 执行移动命令: MovL(-329.2829990386963,-20.71700096130371,200.0,180.0,0.0,-18.64530086517334,speed=50)
+2025-08-04 18:32:26,752 - RobotController - DEBUG - 执行移动命令: MovL(-318.9496040344238,-31.050395965576172,200.0,180.0,0.0,-27.945356369018555,speed=50)
+2025-08-04 18:32:26,779 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,805 - RobotController - DEBUG - 执行移动命令: MovL(-308.36896896362305,-41.63103103637695,200.0,180.0,0.0,-37.46792793273926,speed=50)
+2025-08-04 18:32:26,858 - RobotController - DEBUG - 执行移动命令: MovL(-302.63919830322266,-47.360801696777344,200.0,180.0,0.0,-42.62472152709961,speed=50)
+2025-08-04 18:32:26,886 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:26,912 - RobotController - DEBUG - 执行移动命令: MovL(-313.6486053466797,-36.35139465332031,200.0,180.0,0.0,-32.71625518798828,speed=50)
+2025-08-04 18:32:27,004 - RobotController - DEBUG - 执行移动命令: MovL(-324.65600967407227,-25.343990325927734,200.0,180.0,0.0,-22.80959129333496,speed=50)
+2025-08-04 18:32:27,008 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,020 - RobotController - DEBUG - 执行移动命令: MovL(-335.5278015136719,-14.472198486328125,200.0,180.0,0.0,-13.024978637695312,speed=50)
+2025-08-04 18:32:27,072 - RobotController - DEBUG - 执行移动命令: MovL(-346.53759002685547,-3.4624099731445312,200.0,180.0,0.0,-3.116168975830078,speed=50)
+2025-08-04 18:32:27,197 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,201 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:27,306 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,415 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,528 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,719 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,829 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:27,938 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,053 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,244 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,353 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,460 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,577 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,686 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,793 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:28,902 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,098 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,208 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,312 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,420 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,528 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,637 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,746 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,854 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:29,961 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,149 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,263 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,373 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,482 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,674 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,783 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:30,892 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,001 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,110 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,219 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,331 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,438 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,547 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,656 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,765 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,875 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:31,980 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,086 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,196 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,306 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,412 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,522 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,631 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,737 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,846 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:32,955 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,072 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,180 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,290 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,400 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,507 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,618 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,726 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,836 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,946 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:33,953 - RobotController - DEBUG - 执行移动命令: MovL(-349.99940395355225,0.0,200.0011920928955,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:34,006 - RobotController - DEBUG - 执行移动命令: MovL(-324.6919870376587,0.0,250.61602592468262,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:34,055 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,059 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,179.9544072151184,0.06838917732238728,0.0,speed=50)
+2025-08-04 18:32:34,106 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,177.20224618911743,4.1966307163238525,0.0,speed=50)
+2025-08-04 18:32:34,157 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,174.45034742355347,8.3244788646698,0.0,speed=50)
+2025-08-04 18:32:34,164 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,224 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,171.7830991744995,12.325351238250732,0.0,speed=50)
+2025-08-04 18:32:34,263 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,171.6437005996704,12.534449100494383,0.0,speed=50)
+2025-08-04 18:32:34,273 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,331 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,177.0009183883667,4.498622417449949,0.0,speed=50)
+2025-08-04 18:32:34,372 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,182.50528812408447,-3.757932186126709,0.0,speed=50)
+2025-08-04 18:32:34,381 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,438 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,188.00870418548584,-12.01305627822876,0.0,speed=50)
+2025-08-04 18:32:34,488 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,491 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,186.60370349884033,-9.905555248260498,0.0,speed=50)
+2025-08-04 18:32:34,545 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,181.4012908935547,-2.1019363403320277,0.0,speed=50)
+2025-08-04 18:32:34,596 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,600 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,175.89589595794678,6.1561560630798375,0.0,speed=50)
+2025-08-04 18:32:34,649 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,170.39119243621826,14.413211345672615,0.0,speed=50)
+2025-08-04 18:32:34,697 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,172.55680322647095,11.164795160293577,0.0,speed=50)
+2025-08-04 18:32:34,704 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,763 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,175.23020267486572,7.154695987701416,0.0,speed=50)
+2025-08-04 18:32:34,813 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,817 - RobotController - DEBUG - 执行移动命令: MovL(-300.0,0.0,300.0,177.98224449157715,3.0266332626342773,0.0,speed=50)
+2025-08-04 18:32:34,871 - RobotController - DEBUG - 执行移动命令: MovL(-307.3401212692261,0.0,285.31975746154785,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:34,922 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:34,925 - RobotController - DEBUG - 执行移动命令: MovL(-334.86244678497314,0.0,230.2751064300537,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:34,978 - RobotController - DEBUG - 执行移动命令: MovL(-350.0,0.0,200.0,180.0,0.0,0.0,speed=50)
+2025-08-04 18:32:35,031 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,139 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,244 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,354 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,460 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,565 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,672 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,781 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,886 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:35,993 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,103 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,212 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,319 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,429 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,538 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,642 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,749 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,856 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:36,965 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,074 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,182 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,292 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,401 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,509 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,618 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,727 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,836 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:37,946 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,052 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,161 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,271 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,380 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,486 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,595 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,701 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,810 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:38,918 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,027 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,137 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,246 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,355 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,464 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,571 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,678 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,787 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:39,896 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,006 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,113 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,222 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,328 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,435 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,541 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,650 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,755 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,860 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:40,969 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,078 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,187 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,294 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,404 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,513 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,623 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,732 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,841 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:41,949 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,058 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,167 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,272 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,380 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,511 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,616 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,725 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,833 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:42,943 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,051 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,160 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,270 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,378 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,487 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,596 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,704 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,813 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:43,921 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,030 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,139 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,248 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,356 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,461 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,570 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,678 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,786 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,893 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:44,997 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:45,106 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:45,214 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:45,323 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:45,432 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:45,454 - RobotController - DEBUG - GetErrorID result: 0,{[2]},GetErrorID();
+2025-08-04 18:32:45,462 - RobotController - INFO - 清除报警结果: 0,{},ClearError();
+2025-08-04 18:32:45,968 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:46,009 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:47,638 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:47,745 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:47,850 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:47,958 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,064 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,173 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,281 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,389 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,496 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,604 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,713 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,817 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:48,926 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,035 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,144 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,253 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,360 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,467 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,573 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,680 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,789 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:49,898 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,006 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,110 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,216 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,324 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,435 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,543 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,652 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,758 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,864 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:50,971 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,079 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,188 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,297 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,404 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,512 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,623 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,736 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,845 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:51,952 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,057 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,163 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,270 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,379 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,483 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,591 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,696 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,802 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:52,908 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,017 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,123 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,228 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,335 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,440 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,549 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,653 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,763 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,873 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:53,981 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,089 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,198 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,307 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,412 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,518 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,622 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,731 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,838 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:54,948 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,054 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,159 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,268 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,373 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,482 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,591 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,699 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,807 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:55,916 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,024 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,129 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,238 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,347 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,456 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,565 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,672 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,781 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,887 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:56,996 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,105 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,214 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,323 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,431 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,539 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,648 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,757 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,865 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:57,973 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,083 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,191 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,300 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,408 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,519 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,626 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,735 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,840 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:58,948 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,053 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,162 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,268 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,378 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,487 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,594 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,702 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,808 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:32:59,916 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,026 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,132 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,241 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,348 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,457 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,563 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,672 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,781 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,887 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:00,992 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,100 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,209 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,318 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,427 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,534 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,639 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,749 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,854 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:01,961 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,069 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,179 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,288 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,397 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,506 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,615 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,723 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,830 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:02,938 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,043 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,152 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,260 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,369 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,478 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,587 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,696 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,801 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:03,910 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,022 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,130 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,238 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,344 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,448 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,554 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,661 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,769 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,874 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:04,983 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,091 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,197 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,309 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,418 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,523 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,629 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,738 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,846 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:05,956 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,065 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,174 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,280 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,387 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,496 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,605 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,714 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,821 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:06,931 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,039 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,145 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,254 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,363 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,471 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,580 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,689 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,800 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:07,910 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,018 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,123 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,232 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,338 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,446 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,555 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,663 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,770 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,879 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:08,988 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,096 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,202 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,312 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,420 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,527 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,635 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,744 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,853 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:09,962 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:10,067 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:10,180 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,290 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,398 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,507 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,616 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,723 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,828 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:10,938 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,048 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,157 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,264 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,373 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,482 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,591 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,698 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,808 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:11,917 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,026 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,136 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,245 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,354 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,461 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,567 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,676 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,782 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:12,891 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,001 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,110 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,219 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,324 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,432 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,541 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,650 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,759 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,868 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:13,975 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,082 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,192 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,301 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,409 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,518 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,627 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,735 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,845 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:14,954 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,060 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,175 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,288 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,395 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,504 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,613 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,730 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,839 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:15,949 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,057 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,166 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,272 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,381 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,487 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,596 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,706 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,815 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:16,925 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,034 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,142 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,251 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,358 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,468 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,578 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,687 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,796 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:17,901 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,007 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,117 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,226 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,340 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,453 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,561 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,669 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,776 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,885 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:18,994 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,107 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,217 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,327 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,443 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,564 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,673 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,786 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:19,896 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,011 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,118 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,230 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,342 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,456 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,576 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,704 - RobotController - DEBUG - GetErrorID result: Control Mode Is Not Tcp	
+2025-08-04 18:33:20,813 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:20,922 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,030 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,145 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,262 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,370 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,486 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,623 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,734 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,842 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:21,955 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,067 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,183 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,299 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,415 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,527 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,636 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,752 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,876 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:22,987 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,106 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,221 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,336 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,442 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,550 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,666 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,775 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,884 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:23,993 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,102 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,209 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,317 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,433 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,542 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,652 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,764 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,876 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:24,989 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,102 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,213 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,318 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,426 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,541 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,652 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,760 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,874 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:25,982 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,096 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,210 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,323 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,438 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,549 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,655 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,763 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,877 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:26,986 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,095 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,200 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,313 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,423 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,527 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,641 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,759 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,871 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:27,977 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:28,085 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:34,535 - RobotController - INFO - 正在连接到机器人 192.168.1.198...
+2025-08-04 18:33:34,543 - RobotController - INFO - Dashboard连接成功 (端口 29999)
+2025-08-04 18:33:34,546 - RobotController - INFO - Feed连接成功 (端口 30004)
+2025-08-04 18:33:34,563 - RobotController - INFO - 速度设置为: 50%
+2025-08-04 18:33:34,613 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:34,723 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:34,832 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:34,942 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,048 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,165 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,273 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,383 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,492 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,601 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,727 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,850 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:35,958 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,067 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,176 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,287 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,396 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,506 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,615 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,724 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,835 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:36,945 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,054 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,164 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,274 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,384 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,490 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,599 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:37,652 - RobotController - DEBUG - EnableRobot result: 0,{},EnableRobot();
+2025-08-04 18:33:39,179 - RobotController - INFO - 机器人启用成功
+2025-08-04 18:33:39,184 - RobotController - INFO - 正在移动到初始位置: [0, 45, 45, 0, 90, 0]
+2025-08-04 18:33:39,198 - RobotController - DEBUG - 执行MovJ命令，速度: 50%
+2025-08-04 18:33:39,201 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,310 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,420 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,530 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,640 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,750 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,862 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:39,971 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,080 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,186 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,293 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,402 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,512 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,621 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,734 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,843 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:40,952 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,062 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,171 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,281 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,390 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,499 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,608 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,718 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,827 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:41,939 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,049 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,159 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,203 - RobotController - INFO - 已到达初始位置
+2025-08-04 18:33:42,265 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,374 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,484 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,593 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,703 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,813 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:42,922 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,032 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,139 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,249 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,356 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,464 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,573 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,683 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,792 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:43,902 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,010 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,119 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,228 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,337 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,447 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,553 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,663 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,770 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,877 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:44,985 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,095 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,204 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,315 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,423 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,529 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,639 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,748 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,858 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:45,968 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,078 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,188 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,294 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,401 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,507 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,614 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,725 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,835 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:46,945 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,051 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,161 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,267 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,376 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,482 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,588 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,698 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,803 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:47,913 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,023 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,133 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,242 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,352 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,461 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,571 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,681 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,789 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:48,894 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,004 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,112 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,220 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,332 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,441 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,547 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,657 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,766 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,872 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:49,981 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,090 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,200 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,310 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,418 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,528 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,637 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,743 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,852 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:50,958 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,067 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,177 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,287 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,396 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,506 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,616 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,723 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,833 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:51,944 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,052 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,161 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,275 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,385 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,495 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,604 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,710 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,819 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:52,926 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,035 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,139 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,249 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,357 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,467 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,574 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,683 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,793 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:53,902 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,011 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,120 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,229 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,337 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,442 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,550 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,659 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,769 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,877 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:54,987 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,095 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,200 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,307 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,416 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,526 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,636 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,744 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,852 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:55,962 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,072 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,182 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,291 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,398 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,507 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,613 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,723 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,831 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:56,941 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,051 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,157 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,269 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,379 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,488 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,598 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,707 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,817 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:57,931 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,041 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,150 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,259 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,369 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,501 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,610 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,719 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,829 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:58,939 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,048 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,157 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,266 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,375 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,493 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,602 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,712 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,817 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:33:59,926 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,035 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,144 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,254 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,364 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,473 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,581 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,691 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,801 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:00,910 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,017 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,126 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,236 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,345 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,453 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,563 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,673 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,782 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:01,891 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,002 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,111 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,220 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,332 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,442 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,551 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,661 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,771 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,881 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:02,990 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,096 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,207 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,316 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,427 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,537 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,646 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,759 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,867 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:03,977 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,086 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,195 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,305 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,415 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,523 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,633 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,744 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,852 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:04,957 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,062 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,171 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,284 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,393 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,501 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,611 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,721 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,830 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:05,940 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,047 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,156 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,266 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,375 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,486 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,593 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,702 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,811 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:06,922 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,047 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,157 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,266 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,375 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,484 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,593 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,703 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,811 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:07,917 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,026 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,135 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,244 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,354 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,463 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,573 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,682 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,788 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:08,898 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();
+2025-08-04 18:34:09,008 - RobotController - DEBUG - GetErrorID result: 0,{[]},GetErrorID();

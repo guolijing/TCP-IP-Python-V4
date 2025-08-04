@@ -1,0 +1,52 @@
+{
+    "robot_ip": "192.168.1.198",
+    "music_folder": "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/music",
+    "default_speed": 50,
+    "default_volume": 0.7,
+    "home_position": {
+        "joints": [
+            0,
+            45,
+            45,
+            0,
+            90,
+            0
+        ],
+        "description": "机器人初始位置（关节角度）"
+    },
+    "recommended_positions": {
+        "compact": {
+            "joints": [
+                0,
+                90,
+                -45,
+                0,
+                45,
+                0
+            ],
+            "description": "紧凑存储位置"
+        },
+        "extended": {
+            "joints": [
+                0,
+                30,
+                60,
+                0,
+                90,
+                0
+            ],
+            "description": "扩展准备位置"
+        },
+        "neutral": {
+            "joints": [
+                0,
+                0,
+                90,
+                0,
+                90,
+                0
+            ],
+            "description": "中性示教位置"
+        }
+    }
+}

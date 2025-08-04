@@ -1,0 +1,2573 @@
+2025-08-04 17:18:48,956 - RobotController - INFO - 日志文件创建: /Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/logs/robot_controller_20250804_171848.log
+2025-08-04 17:18:54,398 - RobotController - INFO - 正在连接到机器人 192.168.1.198...
+2025-08-04 17:18:54,404 - RobotController - INFO - Dashboard连接成功 (端口 29999)
+2025-08-04 17:18:54,407 - RobotController - INFO - Feed连接成功 (端口 30004)
+2025-08-04 17:18:54,418 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,418 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,430 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,430 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,440 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,440 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,450 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,451 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,461 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,461 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,471 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,471 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,481 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,481 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,492 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,492 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,502 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,502 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,512 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,512 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,522 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,522 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,533 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,533 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,543 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,543 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,553 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,553 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,563 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,563 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,573 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,573 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,583 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,583 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,593 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,593 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,604 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,604 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,614 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,614 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,624 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,624 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,634 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,635 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,645 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,645 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,655 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,655 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,665 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,665 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,674 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,674 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,685 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,685 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,694 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,694 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,704 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,705 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,715 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,715 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,725 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,725 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,735 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,735 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,745 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,745 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,755 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,755 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,765 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,766 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,776 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,776 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,786 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,786 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,796 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,796 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,806 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,806 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,816 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,816 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,827 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,827 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,837 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,837 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,847 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,847 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,857 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,857 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,867 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,868 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,878 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,878 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,888 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,888 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,898 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,898 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,908 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,908 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,919 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,919 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,929 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,929 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,939 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,939 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,949 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,949 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,959 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,959 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,969 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,969 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,980 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,980 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:54,990 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:54,990 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,000 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,000 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,010 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,010 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,020 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,021 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,029 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,029 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,039 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,039 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,050 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,050 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,060 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,060 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,070 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,070 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,080 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,080 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,090 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,090 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,100 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,101 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,111 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,111 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,121 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,121 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,131 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,131 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,141 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,141 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,152 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,152 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,162 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,162 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,172 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,172 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,182 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,182 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,192 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,192 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,202 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,202 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,212 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,212 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,223 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,223 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,233 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,233 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,243 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,243 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,253 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,253 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,264 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,264 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,274 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,274 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,284 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,284 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,294 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,294 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,304 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,304 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,314 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,314 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,325 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,325 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,335 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,335 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,345 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,345 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,356 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,356 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,366 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,366 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,376 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,376 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,386 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,386 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,396 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,396 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,407 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,407 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,417 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,417 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,427 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,427 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,436 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,436 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,446 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,446 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,456 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,456 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,467 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,467 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,477 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,477 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,487 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,487 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,497 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,497 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,507 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,507 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,517 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,518 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,528 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,528 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,538 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,538 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,548 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,548 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,558 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,558 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,568 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,568 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,577 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,578 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,588 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,588 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,598 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,598 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,608 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,608 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,619 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,619 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,629 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,629 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,639 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,639 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,649 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,649 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,659 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,659 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,669 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,669 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,680 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,680 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,690 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,690 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,700 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,700 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,710 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,710 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,720 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,720 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,731 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,731 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,741 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,741 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,751 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,751 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,761 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,761 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,771 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,771 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,781 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,781 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,790 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,790 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,800 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,800 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,810 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,810 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,820 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,820 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,830 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,830 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,841 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,841 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,851 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,851 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,861 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,861 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,871 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,871 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,881 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,881 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,892 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,892 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,902 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,902 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,912 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,912 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,922 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,922 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,932 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,932 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,942 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,942 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,953 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,953 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,963 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,963 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,973 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,973 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,983 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,983 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:55,993 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:55,993 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,004 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,004 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,014 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,014 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,024 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,024 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,034 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,034 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,044 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,044 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,054 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,054 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,065 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,065 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,075 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,075 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,085 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,085 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,096 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,096 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,106 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,106 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,116 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,116 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,125 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,125 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,136 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,136 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,146 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,146 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,156 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,156 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,166 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,166 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,176 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,176 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,187 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,187 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,197 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,197 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,207 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,207 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,217 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,217 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,227 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,227 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,237 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,238 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,248 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,248 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,258 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,258 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,268 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,268 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,278 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,278 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,289 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,289 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,299 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,299 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,309 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,309 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,319 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,319 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,329 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,329 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,339 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,339 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,350 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,353 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,363 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,365 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,375 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,376 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,386 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,386 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,396 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,396 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,407 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,407 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,417 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,417 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,427 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,427 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,437 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,437 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,447 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,447 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,458 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,458 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,468 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,468 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,478 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,478 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,488 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,488 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,497 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,497 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,507 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,507 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,517 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,518 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,528 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,528 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,538 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,538 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,548 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,548 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,558 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,558 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,568 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,568 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,578 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,579 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,589 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,589 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,599 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,599 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,609 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,609 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,619 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,619 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,630 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,630 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,640 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,640 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,650 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,650 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,660 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,660 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,670 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,670 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,680 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,680 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,690 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,690 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,701 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,701 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,711 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,711 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,721 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,721 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,731 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,731 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,742 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,742 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,752 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,752 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,762 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,762 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,772 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,772 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,782 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,782 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,792 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,792 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,802 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,802 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,813 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,813 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,823 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,823 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,833 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,833 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,843 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,843 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,853 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,853 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,864 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,864 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,874 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,874 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,884 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,884 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,894 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,894 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,904 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,904 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,914 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,914 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,924 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,924 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,935 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,935 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,945 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,945 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,955 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,955 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,965 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,965 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,975 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,975 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,985 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,986 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:56,996 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:56,996 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,006 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,006 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,016 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,016 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,026 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,026 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,036 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,037 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,047 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,047 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,057 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,057 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,067 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,067 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,077 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,077 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,087 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,087 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,097 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,098 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,108 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,108 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,118 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,118 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,128 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,128 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,138 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,138 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,149 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,149 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,159 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,159 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,169 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,169 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,179 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,179 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,189 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,189 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,199 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,199 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,209 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,210 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,220 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,220 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,230 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,230 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,240 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,240 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,251 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,251 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,261 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,261 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,271 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,271 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,281 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,281 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,291 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,291 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,302 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,302 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,312 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,312 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,322 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,322 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,331 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,331 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,341 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,341 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,351 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,352 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,362 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,362 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,372 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,372 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,382 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,382 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,392 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,392 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,402 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,402 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,413 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,413 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,423 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,423 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,433 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,433 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,443 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,443 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,454 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,454 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,464 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,464 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,474 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,474 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,484 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,484 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,495 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,495 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,505 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,505 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,515 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,515 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,525 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,525 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,535 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,535 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,545 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,545 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,556 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,556 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,566 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,566 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,576 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,576 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,586 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,586 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,596 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,596 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,606 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,607 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,617 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,617 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,627 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,627 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,637 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,637 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,647 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,647 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,657 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,658 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,668 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,668 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,678 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,678 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,688 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,688 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,698 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,698 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,708 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,708 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,719 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,719 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,729 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,729 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,739 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,739 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,747 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,747 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,758 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,758 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,768 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,768 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,778 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,778 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,788 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,788 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,798 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,798 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,808 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,808 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,819 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,819 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,829 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,829 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,839 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,839 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,849 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,849 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,859 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,859 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,870 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,870 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,880 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,880 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,890 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,890 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,900 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,900 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,911 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,911 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,921 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,921 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,931 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,931 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,941 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,941 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,951 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,951 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,961 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,961 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,971 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,972 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,982 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,982 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:57,992 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:57,992 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,002 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,002 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,012 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,012 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,022 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,022 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,033 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,033 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,043 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,043 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,053 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,053 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,063 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,063 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,073 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,073 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,083 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,084 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,094 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,094 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,104 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,104 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,114 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,114 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,124 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,124 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,135 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,135 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
+2025-08-04 17:18:58,145 - RobotController - ERROR - Feed error: no field of name tool_vector_actual
+2025-08-04 17:18:58,145 - RobotController - DEBUG - Feed线程详细错误
+Traceback (most recent call last):
+  File "/Users/guolijing/guolijing/code/armless/dobot_new_demo/TCP-IP-Python-V4/music_dance_demo/robot_controller.py", line 174, in _feed_worker
+    feed_data['tool_vector_actual'][0][0],
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: no field of name tool_vector_actual
